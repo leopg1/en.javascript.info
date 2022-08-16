@@ -4,7 +4,7 @@ importance: 5
 
 # A question about "if"
 
-Which of these `alert`s are going to execute?
+Which of these `alerts` are going to execute?
 
 What will the results of the expressions be inside `if(...)`?
 
